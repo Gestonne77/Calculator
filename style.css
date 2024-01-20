@@ -1,0 +1,37 @@
+
+.container{
+    width: 30%
+}
+.hello{
+    background-color: rgba(127, 127, 127, 0.708);
+    text-align: right;
+    margin-top: 40px;
+    height: 70px;
+    
+}
+.second{
+    background-color: rgba(229, 226, 226, 0.708);
+    text-align: right;
+    border: 1px solid gray;
+    height: 70px;
+}
+.third{
+    background-color: rgba(229, 226, 226, 0.708);
+    text-align: center;
+    border: 1px solid gray;
+    height:70px;
+}
+.fourth{
+    background-color: rgba(229, 226, 226, 0.708);
+    text-align: center;
+    border: 1px solid gray;
+    height:70px;
+}
+h1{
+    color:white;
+    line-height: 2em;
+}
+h2{
+    line-height: 2em;
+}
+
